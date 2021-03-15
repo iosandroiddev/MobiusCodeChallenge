@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="bg_border_code">#C7343A</color>
+    <color name="bg_coupon_code">#931110</color>
+
+    <color name="bg_inner_coupon">#F4C3B2</color>
+
+    <color name="bg_bottom_coupon">#9C564C</color>
+
+<color name="applied">#63C816</color>
+
+    <color name="bg_code_inner">#FBE8EA</color>
+
+
+</resources>

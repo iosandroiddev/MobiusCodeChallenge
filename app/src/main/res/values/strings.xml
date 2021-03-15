@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobius Code Challenge</string>
+    <string name="instant_cash">Instant Cash</string>
+    <string name="bonus_amount">Bonus Amount</string>
+    <string name="purchase_amount">Purchase Amount</string>
+
+
+    <string name="wager_bonus_expiry">Bonus expiry %s days from the issue.</string>
+    <string name="wager_release_desc">For every ₹%s bet, ₹%s will be released from the bonus amount.</string>
+
+    <string name="min_deposit">Min. Deposit \n ₹%s</string>
+    <string name="valid_upto">Get %s\%% upto ₹%s \nValid till 1 Jan, 2099 03:32 PM</string>
+
+
+    <string name="slab_amount">%s%% (Max. ₹%s)</string>
+    <string name="purchase_amount_value">&gt;= %s &amp; &lt;%s</string>
+</resources>
